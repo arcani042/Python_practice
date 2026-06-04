@@ -1,8 +1,6 @@
 print("Welcome to Atm Access Checker")
 age =int(input("How old are you? "))
 
-
-
 if age >=18:
     print("You can use the Atm")
     id_card =input("Do you have an Id card? yes or no ").lower()
